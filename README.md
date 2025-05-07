@@ -25,6 +25,10 @@ Este projeto utiliza o Cypress para a realização de testes end-to-end (E2E). -
     ```bash
     npx cypress open
     
-3. **selecione o navegador e clique em Start E2E Testing in Chrome**
+3. **Passo 3**
+    ```bash
+    Selecione o navegador e clique em Start E2E Testing in Chrome
 
-4. **Crie testes automatizados**
+4. **Passo 4**
+    ```bash
+    Crie testes automatizados
